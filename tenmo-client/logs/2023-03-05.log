@@ -1,0 +1,5 @@
+2023-03-05T16:36:25.0772609 405 : [{"timestamp":"2023-03-06T00:36:25.066+00:00","status":405,"error":"Method Not Allowed","message":"Request method 'DELETE' not supported","path":"/transfers/3082"}]
+2023-03-05T17:14:43.7052825 401 : [no body]
+2023-03-05T17:14:48.0876923 401 : [no body]
+2023-03-05T17:16:39.4290544 401 : [no body]
+2023-03-05T17:16:44.1144435 401 : [no body]
